@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(232, 243, 194);
+}
+.avatar{
+    text-align: center;
+    opacity: 0.95;
+    border-radius: 50%;
+}
+
+.title{
+    margin-left: 80px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    line-height: 0%;
+}
+
+p {
+    display: inline-block;  
+    margin: 30pt;
+}
+
+.content {
+    overflow:auto;
+    height: 100%;
+    display: block;
+    padding: 10px 10px 10px 20px;  
+}
+
+#about_me img {
+    width: 170pt;
+    height: 170pt;
+    vertical-align: top;
+    float: left;
+}
+
+#about_me .about{
+    font-size: 25pt;
+    line-height: 35pt;
+}
+
+.content #skill {
+    display:flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+}
+
+.content .edu {
+    background: #91efff;
+    margin: 10pt;
+    margin-bottom: 30pt;
+    width: 300pt;
+    padding: 10pt;
+    line-height: 15pt;
+    position: relative;
+    border-radius: 0.9em;
+}
+

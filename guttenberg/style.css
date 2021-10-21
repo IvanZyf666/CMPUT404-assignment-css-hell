@@ -1,0 +1,54 @@
+body {
+    text-align: justify;
+    background-color: beige;
+    margin: auto;
+    width: 70%;    
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-weight: normal;
+}
+img {
+    text-align: center;
+    opacity: 0.85;
+    border-radius: 20px;
+    border-style: groove;
+    border-width: 4px;
+    border-color: #724410;
+    margin: 4em auto .5em auto;
+}
+p {
+    text-align: justify;
+}
+.center {
+    text-align: center;
+}
+div.fig {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 1em;
+    margin-bottom: 1em
+    }
+a:link {
+    color: blue;
+    text-decoration: none
+    }
+a:visited {
+    color: blue;
+    text-decoration: none
+    }
+a:hover {
+    color: red
+    }
+.fig {
+    margin: auto;
+    text-align: center;
+}
+
+.figcenter {
+    margin: auto;
+    text-align: center;
+}
