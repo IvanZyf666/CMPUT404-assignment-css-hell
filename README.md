@@ -8,24 +8,25 @@ Part 1
 ===============
 
 Books: 
-+ [Anthem, by Ayn Rand](http://www.gutenberg.org/ebooks/1250)
-+ [A Christmas Carol, by Charles Dickens](http://www.gutenberg.org/ebooks/46)
-+ [CANDIDE BY VOLTAIRE](http://www.gutenberg.org/ebooks/19942)
++ The Interesting Narrative of the Life of Olaudah Equiano
++ Adventures of Huckleberry Finn
++ The Wonderful Wizard of Oz
 
 Modifications:
-+ Change the background color to #E1CA85 
-+ Change font-family to sans-serif
-+ Change image with 75% opacity and center the text of image
-+ Center the paragrah and header text
-+ Apply 1 main.css file to 3 gutenberg documents.
-+ Change page number smaller and to the right of the page in CANDIDE
++ Change the background color to beige
++ Change body width to 70% to make it more readable
++ Change font-family of h1-h6 to sans-serif
++ Change image opacity to 0.85 and text-align center
++ Add image border with style groove and color #724410
++ Make the paragrah and header text align well
++ Apply 1 style.css file to 3 gutenberg documents.
 
 License/Copyright
 =================
 
-Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
+Textual content is copyright Ivan Zhang (C) 2021 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
-repository and (C) 2013 Abram Hindle visibile in the text.
+repository and (C) 2021 Ivan Zhang visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
